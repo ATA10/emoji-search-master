@@ -10,6 +10,9 @@ Install
 
 `npm install`
 
+install the @testing-library/react and @testing-library/jest-dom modules:  npm install --save-dev @testing-library/react @testing-library/jest-dom
+
+
 
 
 Usage
